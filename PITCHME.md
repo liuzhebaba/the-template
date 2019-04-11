@@ -1,7 +1,5 @@
-<!--
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
--->
 
 <!--
 Tip! Get started with this template as follows:
